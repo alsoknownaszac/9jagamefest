@@ -21,15 +21,15 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="h-screen w-screen bg-red-500">
+      <main className="h-screen w-screen ">
         <Nav />
-        <Hero />
+        {/* <Hero /> */}
         <WhoWeAre />
         <Offerings />
-        <FAQ />
+        {/* <FAQ />
         <Sponsors />
         <Waitlist />
-        <Footer />
+        <Footer /> */}
         {/* <section className=" h-[1214px]">
           <div className="w-[143px] h-[43px] mx-auto mt-[108px]">
             <p className="font-[500] text-[20px] text-[#0AB221]">Who we are</p>
