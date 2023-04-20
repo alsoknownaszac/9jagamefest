@@ -26,8 +26,8 @@ export default function Home() {
         {/* <Hero /> */}
         <WhoWeAre />
         <Offerings />
-        {/* <FAQ />
-        <Sponsors />
+        <FAQ />
+        {/*<Sponsors />
         <Waitlist />
         <Footer /> */}
         {/* <section className=" h-[1214px]">

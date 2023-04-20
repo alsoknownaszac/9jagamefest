@@ -22,10 +22,13 @@ module.exports = {
       backgroundImage: {
         hero: "url('/bg.png')",
         s1img2: "url('/s1img2.png')",
+        FAQ_bg1: "url('/FAQ_bg1.svg')",
+        FAQ_bg2: "url('/FAQ_bg2.svg')",
+        FAQ_bg3: "url('/FAQ_bg3.svg')",
       },
       screens: {
         "3xl": "1280px",
-        "4xl": "1440px",
+        // "4xl": "1440px",
       },
     },
     container: {
