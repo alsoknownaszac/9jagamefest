@@ -28,13 +28,17 @@ module.exports = {
       },
       screens: {
         "3xl": "1280px",
-        // "4xl": "1440px",
+        "4xl": "1440px",
       },
     },
     container: {
       center: true,
       padding: {
         DEFAULT: "0.5rem",
+        sm: "2rem",
+        md: "3.5rem",
+        lg: "2rem",
+        xl: "4.5rem",
       },
     },
   },

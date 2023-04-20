@@ -2,7 +2,7 @@ import React from "react";
 
 export default function FAQ() {
   return (
-    <section className="container flex flex-col items-center pt-[25px] pb-[10px] lg:pb-[62px] 2xl:pt-[48px] 2xl:pb-[110px]">
+    <section className="container flex flex-col items-center py-[25px] lg:pb-[62px] 2xl:pt-[48px] 2xl:pb-[110px]">
       <div className="flex flex-col items-center mb-[22px] lg:mb-[38px] 2xl:mb-[75px]">
         <h1 className="bg-[#DFEAE2] text-center text-[#033B0B] font-medium w-fit text-[12px] py-[6px] px-[12px] rounded-full 2xl:text-[20px] 2xl:py-[12px] 2xl:px-[24px] mb-[18px] 2xl:mb-[36px]">
           FAQ

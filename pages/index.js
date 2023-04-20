@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import { Inter } from "next/font/google";
+// import { Inter } from "next/font/google";
 import Hero from "@/components/Hero";
 import Nav from "@/components/Nav";
 import WhoWeAre from "@/components/WhoWeAre";
@@ -10,7 +10,7 @@ import Sponsors from "@/components/Sponsors";
 import Waitlist from "@/components/Waitlist";
 import Footer from "@/components/Footer";
 
-const inter = Inter({ subsets: ["latin"] });
+// const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
@@ -27,8 +27,8 @@ export default function Home() {
         <WhoWeAre />
         <Offerings />
         <FAQ />
-        {/*<Sponsors />
-        <Waitlist />
+        <Sponsors />
+        {/*<Waitlist />
         <Footer /> */}
         {/* <section className=" h-[1214px]">
           <div className="w-[143px] h-[43px] mx-auto mt-[108px]">
