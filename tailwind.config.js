@@ -33,6 +33,11 @@ module.exports = {
         "3xl": "1280px",
         "4xl": "1440px",
       },
+      container: {
+        padding: {
+          "2xl": "2rem",
+        },
+      },
     },
     container: {
       center: true,
