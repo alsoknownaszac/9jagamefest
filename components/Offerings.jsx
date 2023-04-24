@@ -7,7 +7,7 @@ export default function Offerings() {
   return (
     <section className="relative py-[60px] 2xl:py-[120px] bg-[linear-gradient(180.83deg,_#E1EFE3_-3.75%,_rgba(235,_240,_236,_0)_99.1%)]">
       <div className="container w-fit mx-auto mb-[60px] relative">
-        <CrownSvg className="-right-[17px] sm:right-2 md:right-6 lg:right-2 xl:right-12 2xl:right-8 -top-[7px] 2xl:-top-4 w-[44px] h-[21px] 2xl:w-[85px] 2xl:h-[41px]" />
+        <CrownSvg className="-right-[17px] sm:right-2 md:right-6 lg:right-2 xl:right-12 2xl:-right-2 -top-[7px] 2xl:-top-4 w-[44px] h-[21px] 2xl:w-[85px] 2xl:h-[41px]" />
         <h2 className="font-bold text-[24px] lg:text-[28px] 2xl:text-[50px] leading-[135%]">
           Explore Our Offerings
         </h2>
