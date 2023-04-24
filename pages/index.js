@@ -22,8 +22,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="h-screen w-screen ">
-        <Nav />
-        {/* <Hero /> */}
+        {/* <Nav /> */}
+        <Hero />
         <WhoWeAre />
         <Offerings />
         <FAQ />

@@ -21,6 +21,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         hero: "url('/bg.png')",
+        hero_sm: "url('/hero_frame_sm.svg')",
+        hero_md: "url('/hero_frame_md.svg')",
+        hero_lg: "url('/hero_frame_lg.svg')",
         s1img2: "url('/s1img2.png')",
         FAQ_bg1: "url('/FAQ_bg1.svg')",
         FAQ_bg2: "url('/FAQ_bg2.svg')",
@@ -34,9 +37,9 @@ module.exports = {
     container: {
       center: true,
       padding: {
-        DEFAULT: "0.5rem",
+        DEFAULT: "0.65rem",
         sm: "2rem",
-        md: "3.5rem",
+        md: "3rem",
         lg: "2rem",
         xl: "4.5rem",
       },
