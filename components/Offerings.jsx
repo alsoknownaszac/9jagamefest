@@ -130,7 +130,7 @@ function ArrowTwoSvg() {
       viewBox="0 0 64 33"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      className="absolute 2xl:w-[115px] 2xl:h-[108px] bottom-0 lg:bottom-[10%] 2xl:bottom-[5%] -right-[30%] lg:-right-[10%] 2xl:right-0"
+      className="hidden 2xs:block absolute 2xl:w-[115px] 2xl:h-[108px] bottom-0 lg:bottom-[10%] 2xl:bottom-[5%] -right-[30%] lg:-right-[10%] 2xl:right-0"
     >
       <path
         fillRule="evenodd"
