@@ -5,7 +5,7 @@ import { CrownSvg } from "./reuseable/CrownSvg";
 
 export default function Offerings() {
   return (
-    <section className="relative py-[60px] 2xl:py-[120px] bg-[linear-gradient(180.83deg,_#E1EFE3_-3.75%,_rgba(235,_240,_236,_0)_99.1%)]">
+    <section className="relative py-[60px] 2xl:py-[120px] bg-[linear-gradient(180.83deg,_#E1EFE3_-3.75%,_rgba(235,_240,_236,_0)_99.1%)] overflow-hidden">
       <div className="container w-fit mx-auto mb-[60px] relative">
         <CrownSvg className="-right-[17px] sm:right-2 md:right-6 lg:right-2 xl:right-12 2xl:-right-2 -top-[7px] 2xl:-top-4 w-[44px] h-[21px] 2xl:w-[85px] 2xl:h-[41px]" />
         <h2 className="font-bold text-[24px] lg:text-[28px] 2xl:text-[50px] leading-[135%]">
@@ -130,7 +130,7 @@ function ArrowTwoSvg() {
       viewBox="0 0 64 33"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      className="hidden 2xs:block absolute 2xl:w-[115px] 2xl:h-[108px] bottom-0 lg:bottom-[10%] 2xl:bottom-[5%] -right-[30%] lg:-right-[10%] 2xl:right-0"
+      className=" absolute 2xl:w-[115px] 2xl:h-[108px] bottom-0 lg:bottom-[10%] 2xl:bottom-[5%] -right-[30%] lg:-right-[10%] 2xl:right-0"
     >
       <path
         fillRule="evenodd"
